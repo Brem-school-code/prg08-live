@@ -1,0 +1,32 @@
+#body {
+  text-align: center;
+  background-color: rgb(133, 133, 185);
+  padding-bottom: 100px;
+  color: white;
+  font-family: sans-serif;
+}
+
+#GoogleButton{
+  margin: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+#Form{
+  margin: 20px;
+}
+
+input{
+  margin: 10px;
+  text-align: center;
+}
+
+
